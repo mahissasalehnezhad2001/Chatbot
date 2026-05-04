@@ -63,8 +63,8 @@ Output:
 - Natural Language Processing
 - Computer Vision
 📁 Project Structure
-├── chatbot.py      # CLI chatbot
-├── app.py          # Streamlit app
+├── memory_chatbot.py      # CLI chatbot
+├── ui_app.py          # Streamlit app
 ├── README.md
 ⚠️ Troubleshooting
 Make sure Ollama is running:
